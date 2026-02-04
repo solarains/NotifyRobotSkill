@@ -1,0 +1,5 @@
+{
+	"webhook_url": "https://your-webhook-url.com/endpoint",
+	"headers": {},
+	"timeout": 5000
+}

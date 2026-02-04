@@ -1,0 +1,7 @@
+# Platform directories (created by install script)
+.claude/
+.cursor/
+.agent/
+
+# Webhook configuration (contains sensitive URLs)
+config.json
